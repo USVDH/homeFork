@@ -1,38 +1,41 @@
 const Config = {
-    name: "user",
+    name: "sen",
     scale: 1,
     Links: [
         [
-            "site",
-            [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
-            ]
-        ],
+      "dev",
+      [
+        ["joy md repo", "https://github.com/joymd/JOYMD/pull/2/checks"],
+        ["oh shit, git!?!", "https://ohshitgit.com/en"],
+        ["coolors", "https://coolors.co/"],
+        ["css to react native", "https://csstox.surge.sh/"],
+        ["asana", "https://asana.com/"],
+      ],
+    ],
+    [
+      "video",
+      [
+        ["documentary mania", "https://www.documentarymania.com"],
+        ["youtube", "https://www.youtube.com"],
+        ["aniwatch", "https://www.aniwatch.me"],
+      ],
+    ],
+    [
+      "misc",
+      [
+        ["reddit", "https://www.reddit.com"],
         [
-            "site",
-            [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
-            ]
+          "link shortener",
+          "http://aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/",
         ],
+        ["ai dungeon", "https://play.aidungeon.io/"],
         [
-            "site",
-            [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
-            ]
+          "weathernews",
+          "https://weathernews.jp/onebox/35.673960/140.092692/q=%E5%8D%83%E8%91%89%E5%B8%82%E8%8A%B1%E8%A6%8B%E5%B7%9D%E5%8C%BA&v=365fd88b095b7788211f1197abe2f9d667aa97e57efb25505ed200907c84dee6&temp=f&lang=en",
         ],
-        [
-            "site",
-            [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
-            ]
-        ]
+        ["eat by date", "http://www.eatbydate.com/"],
+      ],
+    ],
     ]
 }
 
