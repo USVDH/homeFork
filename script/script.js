@@ -5,7 +5,7 @@ const Config = {
         [
       "dev",
       [
-        ["joy md repo", "https://github.com/joymd/JOYMD/pull/2/checks"],
+        ["github", "https://github.com/"],
         ["oh shit, git!?!", "https://ohshitgit.com/en"],
         ["coolors", "https://coolors.co/"],
         ["css to react native", "https://csstox.surge.sh/"],
