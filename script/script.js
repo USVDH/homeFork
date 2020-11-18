@@ -10,6 +10,7 @@ const Config = {
         ["coolors", "https://coolors.co/"],
         ["css to react native", "https://csstox.surge.sh/"],
         ["asana", "https://asana.com/"],
+        ["packagephobia", "https://packagephobia.com/"],
       ],
     ],
     [
